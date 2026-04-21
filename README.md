@@ -1,18 +1,25 @@
-# Hi, I'm Ramchand Sevaiwar 👋
+# Hi, I'm Ramchand Sevaiwar 👋  
+**Data Analyst | Machine Learning Engineer | Aspiring AI Engineer**
 
-I am a Data Analyst and Machine Learning practitioner with a strong focus on solving business problems through data-driven solutions.  
-My work involves building end-to-end analytical pipelines, applying machine learning models, and developing interactive applications for decision-making.
+📍 India | 📊 Open to Data Analyst / ML / AI Roles  
 
-I approach projects with a practical mindset — focusing not just on models, but on real-world impact, scalability, and usability.
+---
+
+## 💡 About Me
+
+I am a Data Analyst and Machine Learning practitioner focused on solving real-world business problems through data-driven solutions.  
+I specialize in building end-to-end ML pipelines, developing interactive applications, and extracting actionable insights from complex datasets.
+
+Currently, I am actively expanding my expertise in **Deep Learning, NLP, Generative AI, and Agentic AI systems** to build next-generation intelligent applications.
 
 ---
 
 ## 💼 Professional Summary
 
-- Experience in data analysis, machine learning, and application development  
+- Hands-on experience in data analysis, machine learning, and application development  
 - Strong foundation in Python, SQL, and data visualization  
-- Skilled in transforming raw data into actionable insights  
-- Hands-on experience with end-to-end project development  
+- Skilled in building end-to-end ML solutions from data preprocessing to deployment  
+- Focused on solving business problems with scalable and practical approaches  
 
 ---
 
@@ -21,77 +28,77 @@ I approach projects with a practical mindset — focusing not just on models, bu
 **Programming & Data Handling**  
 Python | SQL | Pandas | NumPy  
 
-**Machine Learning**  
-Scikit-learn | Classification | Regression | Feature Engineering | Model Evaluation  
+**Machine Learning & AI**  
+Scikit-learn | Classification | Regression | Feature Engineering | Model Evaluation | Feature Selection  
+Deep Learning (Learning) | NLP (Learning) | Generative AI | Agentic AI  
 
-**Data Visualization & Apps**  
-Matplotlib | Seaborn | Power BI | Streamlit  
+**Data Visualization & Application Development**  
+Matplotlib | Seaborn | Plotly | Power BI  
+Streamlit | Flask | FastAPI | Gradio  
 
 **Tools & Platforms**  
-Git | GitHub | Jupyter Notebook  
+Git | GitHub | Jupyter Notebook | VS Code  
 
 ---
 
-## 📊 Key Projects
+## 📊 Key Projects (Business-Focused)
 
-### 🔹 Castrone Real Estate Price Prediction
-- Developed a machine learning model to predict property prices based on location, features, and market trends  
-- Performed data preprocessing, feature selection, and model optimization  
-- Improved prediction accuracy using regression techniques and hyperparameter tuning  
-
----
-
-### 🔹 Customer Churn Prediction
-- Built a classification model to identify customers likely to churn  
-- Applied data preprocessing, encoding, and class imbalance handling (SMOTE)  
-- Evaluated models using accuracy, precision, recall, and F1-score  
+### 🔹 🏠 Castrone Real Estate Price Prediction
+- Built a regression model to predict property prices using location and property features  
+- Applied feature engineering and hyperparameter tuning to improve model performance  
+- Delivered insights useful for pricing strategy and market analysis  
 
 ---
 
-### 🔹 Customer Segmentation Analysis
-- Performed clustering to segment customers based on behavior and spending patterns  
-- Used unsupervised learning techniques to identify target groups  
-- Generated insights for marketing and business strategy  
+### 🔹 📉 Customer Churn Prediction
+- Developed a classification model to identify high-risk customers  
+- Handled class imbalance using SMOTE and improved recall for minority class  
+- Provided insights to support customer retention strategies  
 
 ---
 
-### 🔹 Startup Funding Analysis (Streamlit App)
-- Built an interactive web app for analyzing startup funding data  
+### 🔹 👥 Customer Segmentation Analysis
+- Applied clustering techniques to segment customers based on behavior and spending patterns  
+- Identified high-value customer groups for targeted marketing  
+- Enabled data-driven personalization strategies  
+
+---
+
+### 🔹 📈 Startup Funding Analysis (Streamlit App)
+- Built an interactive dashboard to analyze startup funding trends  
 - Enabled dynamic filtering by industry, funding stage, and investors  
-- Visualized trends to support investment decision-making  
-
----
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- Improved decision-making through clear data visualization  
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- GitHub: https://github.com/YOUR_USERNAME  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ram-sevaiwar-0798a7250  
+- 💻 GitHub: https://github.com/Ram2002-ai  
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable machine learning solutions  
-- Enhancing model performance and interpretability  
-- Developing production-ready data applications  
+- Deep Learning & Neural Networks  
+- Natural Language Processing (NLP)  
+- Generative AI (LLMs, Prompt Engineering)  
+- Agentic AI Systems (Autonomous AI workflows)  
 
 ---
 
 ## ⚡ Professional Approach
 
-I focus on building solutions that are:
-- Practical and business-oriented  
-- Scalable and maintainable  
-- Clear in insights and communication  
+- Focus on **end-to-end solutions**, not just models  
+- Emphasis on **business impact and scalability**  
+- Strong attention to **clean, interpretable, and production-ready code**  
 
 ---
 
-⭐ Feel free to explore my repositories and connect for collaboration or opportunities.
+## 🚀 Career Objective
+
+To contribute as a Data Analyst / Machine Learning Engineer in a growth-oriented organization where I can apply my skills in data, AI, and analytics to solve impactful business problems.
+
+---
+
+⭐ *Open to opportunities — feel free to connect or explore my work.*
