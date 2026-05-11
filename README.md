@@ -101,4 +101,4 @@ To contribute as a Data Analyst / Machine Learning Engineer in a growth-oriented
 
 ---
 
-⭐ *Open to opportunities — feel free to connect or explore my work.*.
+⭐ *Open to opportunities — feel free to connect or explore my work.*
