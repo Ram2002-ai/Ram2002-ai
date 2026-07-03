@@ -45,8 +45,18 @@ Currently, I'm focused on building next-generation AI applications using **LangC
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-009688?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-5C2D91?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF9800?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00BCD4?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-795548?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-607D8B?style=flat-square)
 ---
 
 ## Artificial Intelligence
