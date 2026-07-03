@@ -41,8 +41,6 @@ Currently, I'm focused on building next-generation AI applications using **LangC
 
 # 💻 Tech Stack
 
-## Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=orange)
