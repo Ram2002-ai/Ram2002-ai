@@ -1,104 +1,255 @@
-# Hi, I'm Ramchand Sevaiwar 👋  
-**Data Analyst | Machine Learning Engineer | Aspiring AI Engineer**
+<div align="center">
 
-📍 India | 📊 Open to Data Analyst / ML / AI Roles  
+# 👋 Hi, I'm Ramchand Sevaiwar
 
----
+### AI Engineer | Generative AI Engineer | Machine Learning Engineer
 
-## 💡 About Me
+Building intelligent AI systems with **LLMs**, **AI Agents**, **Computer Vision**, and **Scalable AI Applications**.
 
-I am a Data Analyst and Machine Learning practitioner focused on solving real-world business problems through data-driven solutions.  
-I specialize in building end-to-end ML pipelines, developing interactive applications, and extracting actionable insights from complex datasets.
+<p>
+<a href="mailto:ramsevaiwar4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ram-sevaiwar-0798a7250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/Ram2002-ai"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+</p>
 
-Currently, I am actively expanding my expertise in **Deep Learning, NLP, Generative AI, and Agentic AI systems** to build next-generation intelligent applications.
-
----
-
-## 💼 Professional Summary
-
-- Hands-on experience in data analysis, machine learning, and application development  
-- Strong foundation in Python, SQL, and data visualization  
-- Skilled in building end-to-end ML solutions from data preprocessing to deployment  
-- Focused on solving business problems with scalable and practical approaches  
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+# 💫 About Me
 
-**Programming & Data Handling**  
-Python | SQL | Pandas | NumPy  
+I am an AI Engineer passionate about designing and developing production-ready intelligent applications powered by **Generative AI**, **Large Language Models (LLMs)**, **AI Agents**, **Machine Learning**, and **Computer Vision**.
 
-**Machine Learning & AI**  
-Scikit-learn | Classification | Regression | Feature Engineering | Model Evaluation | Feature Selection  
-Deep Learning (Learning) | NLP (Learning) | Generative AI | Agentic AI  
+I enjoy solving real-world business problems through scalable AI solutions, modern backend architectures, and data-driven engineering practices.
 
-**Data Visualization & Application Development**  
-Matplotlib | Seaborn | Plotly | Power BI  
-Streamlit | Flask | FastAPI | Gradio  
-
-**Tools & Platforms**  
-Git | GitHub | Jupyter Notebook | VS Code  
+Currently, I'm focused on building next-generation AI applications using **LangChain**, **LangGraph**, **FastAPI**, **RAG**, and **Multi-Agent Systems** while continuously expanding my expertise in **MLOps**, **Cloud AI**, and **Distributed AI Systems**.
 
 ---
 
-## 📊 Key Projects (Business-Focused)
+# 🚀 Current Focus
 
-### 🔹 🏠 Castrone Real Estate Price Prediction
-- Built a regression model to predict property prices using location and property features  
-- Applied feature engineering and hyperparameter tuning to improve model performance  
-- Delivered insights useful for pricing strategy and market analysis  
-
----
-
-### 🔹 📉 Customer Churn Prediction
-- Developed a classification model to identify high-risk customers  
-- Handled class imbalance using SMOTE and improved recall for minority class  
-- Provided insights to support customer retention strategies  
+- 🤖 AI Agents
+- 🧠 Large Language Models
+- ⚡ FastAPI
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🌐 Multi-Agent Systems
+- 👁️ Computer Vision
+- ☁️ AWS Cloud
+- 🐳 Docker & MLOps
 
 ---
 
-### 🔹 👥 Customer Segmentation Analysis
-- Applied clustering techniques to segment customers based on behavior and spending patterns  
-- Identified high-value customer groups for targeted marketing  
-- Enabled data-driven personalization strategies  
+# 💻 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
 
 ---
 
-### 🔹 📈 Startup Funding Analysis (Streamlit App)
-- Built an interactive dashboard to analyze startup funding trends  
-- Enabled dynamic filtering by industry, funding stage, and investors  
-- Improved decision-making through clear data visualization  
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents
+- Multi-Agent Systems
+- LangChain
+- LangGraph
+- RAG
+- NLP
+- Computer Vision
+- Embeddings
+- Vector Search
 
 ---
 
-## 📫 Contact
+## Frameworks & Libraries
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/ram-sevaiwar-0798a7250  
-- 💻 GitHub: https://github.com/Ram2002-ai  
-
----
-
-## 🎯 Current Focus
-
-- Deep Learning & Neural Networks  
-- Natural Language Processing (NLP)  
-- Generative AI (LLMs, Prompt Engineering)  
-- Agentic AI Systems (Autonomous AI workflows)  
-
----
-
-## ⚡ Professional Approach
-
-- Focus on **end-to-end solutions**, not just models  
-- Emphasis on **business impact and scalability**  
-- Strong attention to **clean, interpretable, and production-ready code**  
+- FastAPI
+- Streamlit
+- Hugging Face
+- Transformers
+- OpenCV
+- Ultralytics YOLO
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
 
 ---
 
-## 🚀 Career Objective
+## Databases
 
-To contribute as a Data Analyst / Machine Learning Engineer in a growth-oriented organization where I can apply my skills in data, AI, and analytics to solve impactful business problems.
+- PostgreSQL
+- MySQL
+- SQLite
+- FAISS
+- ChromaDB
 
 ---
 
-⭐ *Open to opportunities — feel free to connect or explore my work..*
+## Cloud & DevOps
+
+- AWS
+- Docker
+- Git
+- GitHub
+- Linux
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 Multi-Agent Research Assistant
+
+A research automation platform that leverages AI agents and LLM workflows to assist with intelligent information retrieval and structured research tasks.
+
+**Technologies**
+
+Python • LangChain • AI Agents • FastAPI • LLMs
+
+---
+
+## 🏡 Real Estate Capstone
+
+An AI-powered real estate application focused on intelligent data analysis and property insights with an interactive user experience.
+
+**Technologies**
+
+Python • Streamlit • Machine Learning • Data Analytics
+
+---
+
+## 👁️ Ultralytics YOLO Detection Models
+
+Computer Vision implementations using Ultralytics YOLO for real-time object detection across image and video datasets.
+
+**Technologies**
+
+Python • YOLO • OpenCV • Deep Learning
+
+---
+
+## 📊 Data Analytics Application
+
+A data analytics platform that enables exploratory data analysis, interactive visualizations, and business insight generation.
+
+**Technologies**
+
+Python • Streamlit • Pandas • NumPy • Matplotlib
+
+---
+
+# 🎯 AI Specializations
+
+- Generative AI
+- AI Agents
+- Multi-Agent Systems
+- LLM Applications
+- RAG Pipelines
+- Backend AI APIs
+- Computer Vision
+- Machine Learning
+- Data Analytics
+- Intelligent Automation
+
+---
+
+# 🌱 Currently Learning
+
+- Model Context Protocol (MCP)
+- Agentic AI
+- Production RAG
+- Advanced LangGraph
+- MLOps
+- Kubernetes
+- AWS AI Services
+- Distributed AI Systems
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ram2002-ai&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ram2002-ai&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram2002-ai&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ram2002-ai&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Ram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ram2002-ai&theme=react-dark)](https://github.com/Ram2002-ai)
+
+---
+
+# 💼 Why Hire Me?
+
+- Strong foundation in AI Engineering
+- Production-oriented development mindset
+- Hands-on experience with LLMs and AI Agents
+- Experience building scalable AI applications
+- Fast learner with a passion for emerging AI technologies
+- Clean, maintainable, and modular code
+- Strong problem-solving skills
+- Continuous learner with a focus on real-world impact
+
+---
+
+# 🎯 Career Objective
+
+I'm seeking opportunities where I can contribute to building intelligent AI systems, scalable backend services, and next-generation Generative AI applications while collaborating with talented engineering teams.
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+**ramsevaiwar4@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ram-sevaiwar-0798a7250/
+
+💻 **GitHub**
+
+https://github.com/Ram2002-ai
+
+📍 **Location**
+
+India
+
+---
+
+<div align="center">
+
+### ⭐ "Building intelligent systems that solve real-world problems."
+
+**Open to AI Engineer • GenAI Engineer • Machine Learning Engineer Opportunities**
+
+</div>
