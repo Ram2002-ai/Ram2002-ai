@@ -40,10 +40,10 @@ Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and 
 
 ### 🚀 Featured Projects
 
-- **Multi-Agent Research Assistant** — Autonomous multi-agent system for structured, automated research workflows. `Python` `LangChain` `LangGraph` `FastAPI`
-- **Real Estate Intelligence Platform** — ML-driven property insights, recommendations, and analytics. `Python` `Streamlit` `SQL`
+- **Multi-Agent Research Assistant** — Autonomous multi-agent system for structured, automated research workflows. `Python` `LangChain` `CrewAI` `FastAPI`
+- **Real Estate Intelligence Platform** — ML-driven property insights, recommendations, and analytics. `Python` `Sckit-Learn` `Streamlit` `SQL`
 - **YOLO Computer Vision Suite** — Real-time object detection and tracking with Ultralytics YOLO. `Python` `OpenCV` `YOLO`
-- **Intelligent Data Analytics Platform** — Automated EDA with interactive, AI-assisted dashboards. `Python` `Pandas` `Streamlit`
+- **Intelligent Data Analytics Platform** — Automated EDA with interactive, AI-assisted dashboards. `Python` `Pandas` `Streamlit` `Statestics`
 
 ---
 
