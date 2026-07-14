@@ -22,41 +22,61 @@ Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and 
 
 **Languages & Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)](https://www.w3schools.com/sql/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
 
 **AI / ML / GenAI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-00A67E?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)](https://python.langchain.com/docs/introduction/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square)](https://langchain-ai.github.io/langgraph/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://docs.opencv.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)](https://docs.ultralytics.com/)
+[![FAISS](https://img.shields.io/badge/FAISS-00A67E?style=flat-square)](https://faiss.ai/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)](https://docs.trychroma.com/)
 
 **Data & Databases**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
 
 **Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
 
 ---
 
-### 🚀 Featured Projects
 
-- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** <!-- TODO: verify repo URL --> — Built with LangGraph orchestration to coordinate specialized research agents for retrieval, synthesis, and report generation. **[ADD METRIC: e.g. response latency, documents processed, evaluation score]** `Python` `LangChain` `LangGraph` `FastAPI`
+## 🚀 Featured Projects
 
-- **[Real Estate Intelligence Platform](https://github.com/Ram2002-ai/real-estate-intelligence-platform)** <!-- TODO: verify repo URL --> — End-to-end property analytics platform combining ML-based price prediction, recommendation workflows, and interactive dashboards over real estate datasets. **[ADD METRIC: e.g. model accuracy, RMSE, dataset size]** `Python` `Streamlit` `SQL`
+- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** | **[Live Demo](https://multi-agent-research-assistant-xjo8.onrender.com/)** — Autonomous multi-agent research system built with LangGraph that coordinates specialized AI agents for research, summarization, teaching, and report generation. **[ADD METRIC: e.g. average response time, number of supported document sources, evaluation score]** `Python` `LangChain` `LangGraph` `FastAPI`
+
+- **[Real Estate Intelligence Platform](https://github.com/Ram2002-ai/Real_Estate_Capstrone)** | **[Live Demo](https://realestate2026.streamlit.app/)** — End-to-end real estate analytics platform featuring ML-powered price prediction, recommendation workflows, and interactive market intelligence dashboards. **[ADD METRIC: e.g. RMSE, MAE, dataset size]** `Python` `Streamlit` `SQL`
 
   ![demo](assets/real-estate-dashboard.gif)
-  <!-- Capture a 5–10 second walkthrough of the dashboard showing predictions, recommendations, and analytics -->
+  <!-- Capture a 5–10 second walkthrough showing price prediction, recommendation engine, and analytics dashboard -->
 
-- **[YOLO Computer Vision Suite](https://github.com/Ram2002-ai/yolo-computer-vision-suite)** <!-- TODO: verify repo URL --> — Real-time computer vision application using Ultralytics YOLO with OpenCV for object detection, tracking, and live inference. **[ADD METRIC: e.g. FPS, inference latency, supported classes]** `Python` `OpenCV` `YOLO`
+- **[YOLO Computer Vision Suite](https://github.com/Ram2002-ai/Ultralytics-Yolo-detections-Models/tree/main)** — Real-time computer vision application using Ultralytics YOLO and OpenCV for object detection, image inference, and live webcam detection. **[ADD METRIC: e.g. inference FPS, supported YOLO models, detection latency]** `Python` `OpenCV` `YOLO`
 
   ![demo](assets/yolo-demo.gif)
-  <!-- Capture a 3–5 second object detection clip with bounding boxes and live inference -->
+  <!-- Capture a 3–5 second screen recording showing live object detection with bounding boxes -->
 
-- **[Intelligent Data Analytics Platform](https://github.com/Ram2002-ai/intelligent-data-analytics-platform)** <!-- TODO: verify repo URL --> — Automated exploratory data analysis platform that generates interactive visualizations and AI-assisted dataset summaries from uploaded CSV files. **[ADD METRIC: e.g. maximum dataset size, processing time, supported file size]** `Python` `Pandas` `Streamlit`
+- **[Intelligent Data Analytics Platform](https://github.com/Ram2002-ai/Data_Analytics_App)** | **[Live Demo](https://aidataanalyst2026.streamlit.app/)** — Automated exploratory data analysis platform that generates interactive dashboards, statistical summaries, and AI-assisted insights from uploaded datasets. **[ADD METRIC: e.g. maximum dataset size, processing time, supported file formats]** `Python` `Pandas` `Streamlit`
 
   ![demo](assets/data-analytics-dashboard.gif)
-  <!-- Capture a 5–10 second walkthrough showing file upload, automated EDA, and interactive dashboard -->
-
+  <!-- Capture a 5–10 second walkthrough showing dataset upload, automated EDA, and dashboard generation -->
 ---
 
 ### 📊 GitHub Stats
