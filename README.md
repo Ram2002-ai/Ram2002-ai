@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Ramchand Sevaiwar
 
-### AI Engineer • Generative AI Engineer • Machine Learning Engineer
+### AI Engineer • Generative AI Engineer
 
 Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and **Computer Vision** — from autonomous multi-agent workflows to real-time vision pipelines. Currently going deeper on agentic AI, LangGraph, and cloud-native MLOps.
 
@@ -40,10 +40,22 @@ Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and 
 
 ### 🚀 Featured Projects
 
-- **Multi-Agent Research Assistant** — Autonomous multi-agent system for structured, automated research workflows. `Python` `LangChain` `CrewAI` `FastAPI`
-- **Real Estate Intelligence Platform** — ML-driven property insights, recommendations, and analytics. `Python` `Sckit-Learn` `Streamlit` `SQL`
-- **YOLO Computer Vision Suite** — Real-time object detection and tracking with Ultralytics YOLO. `Python` `OpenCV` `YOLO`
-- **Intelligent Data Analytics Platform** — Automated EDA with interactive, AI-assisted dashboards. `Python` `Pandas` `Streamlit` `Statestics`
+- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** <!-- TODO: verify repo URL --> — Built with LangGraph orchestration to coordinate specialized research agents for retrieval, synthesis, and report generation. **[ADD METRIC: e.g. response latency, documents processed, evaluation score]** `Python` `LangChain` `LangGraph` `FastAPI`
+
+- **[Real Estate Intelligence Platform](https://github.com/Ram2002-ai/real-estate-intelligence-platform)** <!-- TODO: verify repo URL --> — End-to-end property analytics platform combining ML-based price prediction, recommendation workflows, and interactive dashboards over real estate datasets. **[ADD METRIC: e.g. model accuracy, RMSE, dataset size]** `Python` `Streamlit` `SQL`
+
+  ![demo](assets/real-estate-dashboard.gif)
+  <!-- Capture a 5–10 second walkthrough of the dashboard showing predictions, recommendations, and analytics -->
+
+- **[YOLO Computer Vision Suite](https://github.com/Ram2002-ai/yolo-computer-vision-suite)** <!-- TODO: verify repo URL --> — Real-time computer vision application using Ultralytics YOLO with OpenCV for object detection, tracking, and live inference. **[ADD METRIC: e.g. FPS, inference latency, supported classes]** `Python` `OpenCV` `YOLO`
+
+  ![demo](assets/yolo-demo.gif)
+  <!-- Capture a 3–5 second object detection clip with bounding boxes and live inference -->
+
+- **[Intelligent Data Analytics Platform](https://github.com/Ram2002-ai/intelligent-data-analytics-platform)** <!-- TODO: verify repo URL --> — Automated exploratory data analysis platform that generates interactive visualizations and AI-assisted dataset summaries from uploaded CSV files. **[ADD METRIC: e.g. maximum dataset size, processing time, supported file size]** `Python` `Pandas` `Streamlit`
+
+  ![demo](assets/data-analytics-dashboard.gif)
+  <!-- Capture a 5–10 second walkthrough showing file upload, automated EDA, and interactive dashboard -->
 
 ---
 
@@ -58,6 +70,6 @@ Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and 
 
 <div align="center">
 
-📍 India • Open to **AI Engineer / LLM Engineer / GenAI Engineer** roles
+📍 India • Open to **AI Engineer • Generative AI Engineer** roles
 
 </div>
