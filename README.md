@@ -4,278 +4,60 @@
 
 ### AI Engineer • Generative AI Engineer • Machine Learning Engineer
 
-Building production-ready AI applications using Large Language Models, AI Agents, Computer Vision, and Modern Backend Systems.
+Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and **Computer Vision** — from autonomous multi-agent workflows to real-time vision pipelines. Currently going deeper on agentic AI, LangGraph, and cloud-native MLOps.
 
 <p>
-
-<a href="mailto:ramsevaiwar4@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/ram-sevaiwar-0798a7250/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/Ram2002-ai">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
+<a href="mailto:ramsevaiwar4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/ram-sevaiwar-0798a7250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Ram2002-ai"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Ram2002-ai&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ram2002-ai&style=flat-square)
 
 </div>
 
 ---
 
-# About Me
+### 🛠️ Tech Stack
 
-I am an AI Engineer passionate about building intelligent systems powered by **Generative AI**, **LLMs**, **AI Agents**, **Machine Learning**, and **Computer Vision**.
+**Languages & Backend**
 
-My primary focus is designing scalable AI applications using modern backend architectures, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, and cloud-native deployment.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-Currently exploring:
+**AI / ML / GenAI**
 
-- Agentic AI
-- Production RAG
-- LangGraph
-- MCP
-- AWS AI Services
-- Kubernetes
-- MLOps
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-00A67E?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
 
----
+**Data & Databases**
 
-# What I'm Working On
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-- AI Agents
-- Multi-Agent Systems
-- Production RAG Applications
-- FastAPI Backend APIs
-- Computer Vision Solutions
-- LLM Powered Automation
-- Cloud Deployment
-- Docker & MLOps
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# Tech Stack
+### 🚀 Featured Projects
 
-## Languages
-
-| Technology | Documentation |
-|------------|---------------|
-| Python | https://docs.python.org/3/ |
-| SQL | https://www.w3schools.com/sql/ |
+- **Multi-Agent Research Assistant** — Autonomous multi-agent system for structured, automated research workflows. `Python` `LangChain` `LangGraph` `FastAPI`
+- **Real Estate Intelligence Platform** — ML-driven property insights, recommendations, and analytics. `Python` `Streamlit` `SQL`
+- **YOLO Computer Vision Suite** — Real-time object detection and tracking with Ultralytics YOLO. `Python` `OpenCV` `YOLO`
+- **Intelligent Data Analytics Platform** — Automated EDA with interactive, AI-assisted dashboards. `Python` `Pandas` `Streamlit`
 
 ---
 
-## AI / Machine Learning
-
-| Technology | Documentation |
-|------------|---------------|
-| Scikit-Learn | https://scikit-learn.org/stable/ |
-| TensorFlow | https://www.tensorflow.org/guide |
-| PyTorch | https://pytorch.org/docs/stable/index.html |
-| Hugging Face Transformers | https://huggingface.co/docs/transformers |
-| LangChain | https://python.langchain.com/docs/introduction/ |
-| LangGraph | https://langchain-ai.github.io/langgraph/ |
-| OpenCV | https://docs.opencv.org/ |
-| Ultralytics YOLO | https://docs.ultralytics.com/ |
-
----
-
-## Generative AI
-
-| Technology | Documentation |
-|------------|---------------|
-| LLMs | https://huggingface.co/docs |
-| Prompt Engineering | https://platform.openai.com/docs/guides/prompt-engineering |
-| RAG | https://python.langchain.com/docs/use_cases/question_answering/ |
-| FAISS | https://faiss.ai/ |
-| ChromaDB | https://docs.trychroma.com/ |
-
----
-
-## Backend Development
-
-| Technology | Documentation |
-|------------|---------------|
-| FastAPI | https://fastapi.tiangolo.com/ |
-| Streamlit | https://docs.streamlit.io/ |
-
----
-
-## Data Science
-
-| Technology | Documentation |
-|------------|---------------|
-| Pandas | https://pandas.pydata.org/docs/ |
-| NumPy | https://numpy.org/doc/ |
-| Matplotlib | https://matplotlib.org/stable/ |
-
----
-
-## Databases
-
-| Technology | Documentation |
-|------------|---------------|
-| PostgreSQL | https://www.postgresql.org/docs/ |
-| MySQL | https://dev.mysql.com/doc/ |
-| SQLite | https://sqlite.org/docs.html |
-
----
-
-## DevOps & Cloud
-
-| Technology | Documentation |
-|------------|---------------|
-| Docker | https://docs.docker.com/ |
-| AWS | https://docs.aws.amazon.com/ |
-| Git | https://git-scm.com/doc |
-| GitHub | https://docs.github.com/ |
-| Linux | https://kernel.org/doc/html/latest/ |
-
----
-
-# Featured Projects
-
-## Multi-Agent Research Assistant
-
-AI-powered research automation platform using multiple autonomous agents for structured research workflows.
-
-**Tech**
-
-Python • LangChain • LangGraph • FastAPI • LLMs
-
----
-
-## Real Estate Intelligence Platform
-
-Machine Learning application providing intelligent property insights, recommendations, analytics, and visualization.
-
-**Tech**
-
-Python • Streamlit • Machine Learning • SQL
-
----
-
-## YOLO Computer Vision Suite
-
-Real-time object detection, tracking, and computer vision applications using Ultralytics YOLO.
-
-**Tech**
-
-Python • OpenCV • YOLO
-
----
-
-## Intelligent Data Analytics Platform
-
-Automated exploratory data analysis platform with interactive dashboards and AI-assisted insights.
-
-**Tech**
-
-Python • Pandas • Streamlit
-
----
-
-# AI Expertise
-
-- Generative AI
-- AI Agents
-- Agentic AI
-- Multi-Agent Systems
-- LLM Applications
-- Retrieval-Augmented Generation
-- Prompt Engineering
-- Backend AI APIs
-- Computer Vision
-- Machine Learning
-- Deep Learning
-- Data Analytics
-
----
-
-# GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ram2002-ai&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ram2002-ai&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ram2002-ai&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ram2002-ai&theme=tokyonight" alt="GitHub Streak">
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram2002-ai&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ram2002-ai&theme=react-dark"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ram2002-ai&theme=algolia"/>
-
-</p>
-
----
-
-# Why Work With Me?
-
-- Production-focused AI Engineer
-- Hands-on experience with LLM applications
-- AI Agent architecture design
-- Scalable backend development
-- Strong Machine Learning foundation
-- Clean and maintainable code
-- Cloud-ready AI deployment
-- Passionate continuous learner
-
----
-
-# Career Objective
-
-Seeking opportunities to build intelligent AI systems, scalable backend platforms, and next-generation Generative AI products while collaborating with innovative engineering teams.
-
----
-
-# Connect With Me
-
-📧 **Email**
-
-**ramsevaiwar4@gmail.com**
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/ram-sevaiwar-0798a7250
-
-💻 **GitHub**
-
-https://github.com/Ram2002-ai
-
-📍 India
 
 ---
 
 <div align="center">
 
-### ⭐ Building AI that creates real-world impact.
-
-**Open to AI Engineer • LLM Engineer • Generative AI Engineer • Machine Learning Engineer Roles**
+📍 India • Open to **AI Engineer / LLM Engineer / GenAI Engineer** roles
 
 </div>
