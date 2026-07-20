@@ -63,7 +63,7 @@ Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and 
 
  
 
-- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** | **[Live Demo](https://multi-agent-research-assistant-xjo8.onrender.com/)** — Multi-agent research system orchestrated with LangGraph, coordinating specialized agents for research, summarization, teaching, and report generation. Exposed through a FastAPI backend as a deployable service rather than a notebook script. **Key Skills:** `Python` `LangChain` `LangGraph` `FastAPI`
+- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** | **[Live Demo](https://multi-agent-research-assistant-xjo8.onrender.com/)** — Multi-agent research system orchestrated with LangGraph, coordinating specialized agents for research, summarization, teaching, and report generation. Exposed through a FastAPI backend as a deployable service rather than a notebook script. **Key Skills:** `Python` `LangChain` `CrewAI`
 
 - **[Real Estate Intelligence Platform](https://github.com/Ram2002-ai/Real_Estate_Capstrone)** | **[Live Demo](https://realestate2026.streamlit.app/)** — End-to-end real estate analytics platform combining an ML-based price-prediction model with a recommendation engine and interactive market dashboards, backed by a SQL data pipeline. **Key Skills:** `Python` `Streamlit` `SQL`
 
