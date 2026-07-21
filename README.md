@@ -63,15 +63,15 @@ Building production-ready AI systems with **LLMs**, **AI Agents**, **RAG**, and 
 
  
 
-- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** | **[Live Demo](https://multi-agent-research-assistant-xjo8.onrender.com/)** — Multi-agent research system orchestrated with LangGraph, coordinating specialized agents for research, summarization, teaching, and report generation. Exposed through a FastAPI backend as a deployable service rather than a notebook script. **Key Skills:** `Python` `LangChain` `CrewAI`
+- **[Multi-Agent Research Assistant](https://github.com/Ram2002-ai/multi-agent-research-assistant)** | **[Live Demo](https://multi-agent-research-assistant-xjo8.onrender.com/)** — Multi-agent research system orchestrated with LangGraph, coordinating specialized agents for research, summarization, teaching, and report generation. Exposed through a FastAPI backend as a deployable service rather than a notebook script. **Key Skills:** `Python` `LangChain` `CrewAI` `FastAPI` `Docker` `Agents` `Claude-AI` `Tools` 
 
-- **[Real Estate Intelligence Platform](https://github.com/Ram2002-ai/Real_Estate_Capstrone)** | **[Live Demo](https://realestate2026.streamlit.app/)** — End-to-end real estate analytics platform combining an ML-based price-prediction model with a recommendation engine and interactive market dashboards, backed by a SQL data pipeline. **Key Skills:** `Python` `Streamlit` `SQL`
+- **[Real Estate Intelligence Platform](https://github.com/Ram2002-ai/Real_Estate_Capstrone)** | **[Live Demo](https://realestate2026.streamlit.app/)** — End-to-end real estate analytics platform combining an ML-based price-prediction model with a recommendation engine and interactive market dashboards, backed by a SQL data pipeline. **Key Skills:** `Python` `Streamlit` `SQL` `Numpy` `Pandas` `Scikit-learn` `Plotly` `Machine-Learning`
 
   ![demo](assets/real-estate-dashboard.gif)
 
   <!-- Capture a 5–10 second walkthrough showing price prediction, recommendation engine, and analytics dashboard -->
 
-- **[YOLO Computer Vision Suite](https://github.com/Ram2002-ai/Ultralytics-Yolo-detections-Models/tree/main)** — Computer vision suite built on Ultralytics YOLO and OpenCV, supporting object detection across static images and live webcam streams for testing multiple YOLO model variants. **Key Skills:** `Python` `OpenCV` `YOLO`
+- **[YOLO Computer Vision Suite](https://github.com/Ram2002-ai/Ultralytics-Yolo-detections-Models/tree/main)** — Computer vision suite built on Ultralytics YOLO and OpenCV, supporting object detection across static images and live webcam streams for testing multiple YOLO model variants. **Key Skills:** `Python` `OpenCV` `YOLO` `Streamlit`
 
   ![demo](assets/yolo-demo.gif)
 
